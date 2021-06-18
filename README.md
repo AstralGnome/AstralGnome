@@ -2,8 +2,9 @@
   Hello 🌎 <br> I am Keenan Reed
 </h1>
 
-<img target="_blank" href="https://www.linkedin.com/in/keenancodes/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> 
-<img target="_blank" href="https://astralgnome.github.io/KeenanReedPortfolio" src="https://img.shields.io/badge/Portfolio-aqua?style=for-the-badge&logo=&logoColor=464647">
+<img target="_blank" href="https://www.linkedin.com/in/keenancodes/" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <img target="_blank" href="https://astralgnome.github.io/KeenanReedPortfolio" src="https://img.shields.io/badge/Portfolio-aqua?style=for-the-badge&logo=&logoColor=464647">
+
+
 
 
 <!--
