@@ -3,7 +3,7 @@
 </h1>
 
 <a target="_blank" href="https://www.linkedin.com/in/keenancodes/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
-<img src="https://img.shields.io/badge/Portfolio-aqua?style=for-the-badge&logo=&logoColor=464647" target="_blank" href="https://astralgnome.github.io/KeenanReedPortfolio"></a>
+<img target="_blank" href="https://astralgnome.github.io/KeenanReedPortfolio" src="https://img.shields.io/badge/Portfolio-aqua?style=for-the-badge&logo=&logoColor=464647">
 
 
 <!--
