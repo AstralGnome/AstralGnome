@@ -2,9 +2,8 @@
   Hello 🌎 <br> I am Keenan Reed
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keenancodes/) [![Porfolio](https://img.shields.io/badge/Portfolio-aqua?style=for-the-badge&logo=&logoColor=464647)](https://astralgnome.github.io/KeenanReedPortfolio)
-
-<a href="https://google.com" target=_blank>![Porfolio](https://img.shields.io/badge/Portfolio-aqua?style=for-the-badge&logo=&logoColor=464647)</a>
+<a href="https://google.com" target=_blank>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keenancodes/) [![Porfolio](https://img.shields.io/badge/Portfolio-aqua?style=for-the-badge&logo=&logoColor=464647)](https://astralgnome.github.io/KeenanReedPortfolio)
+</a>
 
 <!--
 **AstralGnome/AstralGnome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
