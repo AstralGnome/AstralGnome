@@ -1,4 +1,4 @@
-<h1 align="center" style="border-bottom:none!important">
+<h1 class="border-0" align="center">
 Hello 🌎 <br> I am Keenan J Reed
 </h1>
 
