@@ -4,7 +4,7 @@
 
 --------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralGnome&hide=java,&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AstralGnome&langs_count=10/&hide=java,&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Keenan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AstralGnome&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
